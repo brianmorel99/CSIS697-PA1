@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<patient>
+  <patient_id>1</patient_id>
+  <name>Brian Morel</name>
+  <age>43</age>
+  <diagnosis>Lazyness</diagnosis>
+</patient>
+
+
